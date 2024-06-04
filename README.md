@@ -9,3 +9,8 @@
 
 
 ![image](https://github.com/kris96tian/MULTI_OMICS/assets/92834350/ffe239ce-dca1-4441-add2-4f898e7afc9c)
+
+
+
+
+<img src="blob:chrome-untrusted://media-app/fc74e45c-dc81-42aa-8a00-c1fecd399457" alt="dotplot.png"/>![image](https://github.com/kris96tian/MULTI_OMICS/assets/92834350/edc562bf-2950-4f19-a9f7-d577a0ea57ab)
